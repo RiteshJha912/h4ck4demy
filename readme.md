@@ -55,44 +55,44 @@ Make sure you have the following installed:
 
 ## Quick Start
 
-### 1. Clone the Repository
-git clone https://github.com/yourusername/h4ck4demy.git
-cd h4ck4demy
+### 1. Get into root
+`cd h4ck4demy`
 
 ### 2. Backend Setup
 Navigate to server directory
-cd server
+`cd server`
 
 Install dependencies
-npm install
+`npm install`
 
 Create .env file and add your MongoDB connection string
 See .env.example for required variables
 
 Start the backend server
-npm run dev
+`npm run dev`
 
 The backend will run on: http://localhost:5000
 
 ### 3. Frontend Setup
-# Navigate to client directory (open new terminal)
-cd client
+Navigate to client directory (open new terminal)
+`cd client`
 
 Install dependencies
-npm install
+`npm install`
 
 Start the React app
-npm start
+`npm start`
 The frontend will run on: http://localhost:3000
 
 ### 4. Environment Setup
 
 Create a .env file in the server/ directory:
-
+```
 PORT=5000
 MONGODB_URI=your_mongodb_connection_string_here
 NODE_ENV=development
 JWT_SECRET=your_super_secret_jwt_key_here
+```
 
 ## API Endpoints
 
