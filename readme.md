@@ -56,7 +56,6 @@ Make sure you have the following installed:
 ## Quick Start
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/yourusername/h4ck4demy.git
 cd h4ck4demy
 
