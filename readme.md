@@ -2,6 +2,8 @@
 
 A gamified cybersecurity learning platform built with the MERN stack. Learn cybersecurity concepts through interactive quizzes and compete on a global leaderboard.
 
+needs update in the scoring algorithm and with the story games 
+
 ---
 
 ## Features
