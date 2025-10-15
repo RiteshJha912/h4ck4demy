@@ -122,3 +122,6 @@ JWT_SECRET=your_super_secret_jwt_key_here
 - **react**: UI library  
 - **react-router-dom**: Client-side routing  
 - **axios**: HTTP client for API calls  
+
+
+This will be a good projecttt sooon 
